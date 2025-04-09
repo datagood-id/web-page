@@ -1,0 +1,19 @@
+---
+title: "DataGood"
+---
+ 
+## Transforming data, making a difference.
+
+Mentransformasi data, membuat perbedaan. Inilah semangat DataGood yang berupaya melakukan transformasi data sehingga dapat membuat perbedaan dan berkontribusi untuk kehidupan dan masyarakat yang lebih baik.
+
+## Daras
+
+Daras merupakan kumpulan material untuk belajar data dan penelitian yang dapat diakses secara terbuka untuk menjangkau peminat dan pembelajar data dan penelitian. Bagian ini meliputi berupa pelatihan, kuliyah, buku untuk belajar dan tutorial.
+
+##Publicare
+
+Publicare merupakan hasil kajian dan penelitian yang dipublikasikan sebagai pertanggungjawaban pada publik, serta pemberian akses yang lebih luas dari hasil kajian yang sudah dilakukan. Bagian ini mencakup blog, laporan, working paper, artikel.
+
+## Indisciplina
+
+Indisciplina merupakan kegiatan yang diselenggarakan untuk meningkatkan dan mengembangkan kapasitas serta membangun komunitas yang dibentuk untuk belajar dan meneliti bersama sehingga dapat berkontribusi secara sosial, berkontribusi untuk memecahkan masalah. Kegiatan ini mencakup Workshop, Webinar, Bootcamp, DataDive, dan Meet-up.
