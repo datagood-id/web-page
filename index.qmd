@@ -10,7 +10,7 @@ Mentransformasi data, membuat perbedaan. Inilah semangat DataGood yang berupaya 
 
 Daras merupakan kumpulan material untuk belajar data dan penelitian yang dapat diakses secara terbuka untuk menjangkau peminat dan pembelajar data dan penelitian. Bagian ini meliputi berupa pelatihan, kuliyah, buku untuk belajar dan tutorial.
 
-##Publicare
+## Publicare
 
 Publicare merupakan hasil kajian dan penelitian yang dipublikasikan sebagai pertanggungjawaban pada publik, serta pemberian akses yang lebih luas dari hasil kajian yang sudah dilakukan. Bagian ini mencakup blog, laporan, working paper, artikel.
 
